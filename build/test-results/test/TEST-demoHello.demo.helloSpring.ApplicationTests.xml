@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demoHello.demo.helloSpring.ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-26T06:10:29" hostname="bang-yewon-ui-MacBookPro.local" time="1.472">
+  <properties/>
+  <testcase name="contextLoads()" classname="demoHello.demo.helloSpring.ApplicationTests" time="1.472"/>
+  <system-out><![CDATA[15:10:25.774 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [demoHello.demo.helloSpring.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:10:25.978 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration demoHello.demo.helloSpring.Application for test class demoHello.demo.helloSpring.ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.2)
+
+2024-01-26T15:10:26.731+09:00  INFO 66092 --- [    Test worker] d.demo.helloSpring.ApplicationTests      : Starting ApplicationTests using Java 18.0.1.1 with PID 66092 (started by bang-yewon in /Users/bang-yewon/Desktop/java/demo.helloSpring)
+2024-01-26T15:10:26.736+09:00  INFO 66092 --- [    Test worker] d.demo.helloSpring.ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-01-26T15:10:29.820+09:00  INFO 66092 --- [    Test worker] d.demo.helloSpring.ApplicationTests      : Started ApplicationTests in 3.609 seconds (process running for 5.807)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
