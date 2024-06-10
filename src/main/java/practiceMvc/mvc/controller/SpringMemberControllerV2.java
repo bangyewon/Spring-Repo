@@ -33,6 +33,7 @@ public class SpringMemberControllerV2 {
 
     }
     @RequestMapping("/save")
+
     public ModelAndView save(HttpServletRequest request, HttpServletResponse response) {
         String username = request.getParameter("username");
         int age = Integer.parseInt(request.getParameter("age"));
